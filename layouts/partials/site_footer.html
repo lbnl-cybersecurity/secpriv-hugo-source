@@ -1,0 +1,47 @@
+<footer class="site-footer">
+
+<p align="center">
+Your use of this site is subject to our <A HREF="https://www.lbl.gov/disclaimers/">security and privacy policies</A>.<br>
+A U.S. Department of Energy National Laboratory Operated by the University of California <br>
+ <img src="{{ .Site.BaseURL }}/media/doe-sc.png" style="height:63px;padding:20px;" display="inline-block"></img> <img src="{{ .Site.BaseURL }}/media/doe-badge.png" display="inline-block" style="padding:20px;"></img> <img src="{{ .Site.BaseURL }}/media/6_BL_Horiz_Rev_rgb.png" style="height:110px;padding:20px;" display="inline-block"></img><br>
+</p>
+
+<!--
+  {{ if or (site.GetPage "terms.md") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    {{ with site.GetPage "privacy.md" }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+    {{ with site.GetPage "terms.md" }}
+      {{ if site.GetPage "privacy.md" }} &middot; {{ end }}
+      {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
+    {{ end }}
+  </p>
+  {{ end }}
+-->
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
+
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+
+<!--
+  <p class="powered-by">
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+-->
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+  </p>
+
+</footer>

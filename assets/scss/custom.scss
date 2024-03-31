@@ -1,0 +1,130 @@
+/*************************************************
+ *  An Example Green Theme for Hugo Academic
+ *  Set `custom_css = ["green.css"] in `config.toml`.
+ *  Then save this file as `/static/css/green.css` relative to your website root (i.e. not in `themes/academic` directory).
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
+/*
+a,
+a:visited,
+h3.article-title a:hover {
+    color: rgb(76,175,80);
+}
+
+a:hover {
+    color: rgb(0,230,118);
+}
+
+.navbar-default .navbar-nav li a:hover,
+.btn-primary,
+.btn-primary.btn-outline {
+    color: rgb(76,175,80);
+}
+ */
+
+/* Articles */
+/*
+
+.article-title a {
+    color: #151515;
+}
+
+.article-metadata a {
+    color: #888;
+}
+
+.article-metadata a:hover {
+    color: rgb(76,175,80);
+}
+ */
+
+/* Standard buttons */
+/*
+
+.btn-primary,
+.btn-primary.btn-outline {
+    border-color: rgb(76,175,80);
+}
+ */
+
+/* Hover buttons */
+/*
+
+.btn-primary.btn-outline:hover {
+    border-color: rgb(76,175,80);
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary:visited,
+.btn-primary.btn-outline:active {
+    background-color: rgb(76,175,80);
+}
+ */
+
+// .navbar-light {
+//   background-color:#153446 !important;
+// }
+
+
+// .navbar-default .navbar-brand {
+//   text-transform: uppercase !important;
+// }
+
+.navbar-brand {
+  text-transform: uppercase !important;
+}
+
+// .navbar-collapse {
+//   background-color: #23427f;
+// }
+
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+/*
+footer {
+#  font-family: 'Raleway', sans-serif;
+  background-color:#153446 !important;
+}
+ */
+
+footer {
+  margin: 4rem 0 0;
+  padding: 2rem 0;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+/*  background-color:#153446 !important; */
+  background-color:#00313C !important;
+}
+
+footer p {
+  color: #899596;
+}
+
+.site-footer,
+footer a#back_to_top i {
+  color: #899596;
+}
+
+
+img {
+  display: inline-block;
+}
+
+table {
+  margin-top: -2rem;
+  font-size: 1.0rem;
+}
+
+td {
+/*  padding-left: 0.5rem; */
+  padding-right: 0.75rem;
+}
