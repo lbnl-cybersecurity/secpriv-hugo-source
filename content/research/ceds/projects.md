@@ -75,7 +75,7 @@ Recent highlights of Berkeley Lab Computing Sciences' cybersecurity R&D activiti
 
 ### Some recent news:
 
-[CIGAR 'Smokes Out' Attacks on Solar Electrical Power Equipment](https://crd.lbl.gov/news-and-publications/news/2021/cigar-smokes-out-attacks-on-solar-electrical-power-equipment/) — Jun. 7, 2021
+[Berkeley Lab Leading the Way with New Cybersecurity Projects](https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/) — Nov. 6, 2023
 
 
 #### [Older News](/news)

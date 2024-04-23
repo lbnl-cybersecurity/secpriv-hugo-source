@@ -68,7 +68,7 @@ DOE Press Release: "[DOE Announces $39 Million in Research Funding to Enhance Cy
 
 Hang Liu, Anna Scaglione, and Sean Peisert, “[Privacy Leakage in Graph Signal to Graph Matching Problems](),” _Proceedings of the [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2024.ieeeicassp.org/)_, Seoul, South Korea, April 14–19, 2024.
 
-Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, "[Preserving Smart Grid Integrity: A Differential Privacy Framework for Secure Detection of False Data Injection Attacks in the Smart Grid](https://arxiv.org/abs/2403.02324)," _arXiv preprint_ arXiv:2403.02324, 4 Mar 2024.
+Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, "[Differentially Private Communication of Measurement Anomalies in the Smart Grid](https://arxiv.org/abs/2403.02324)," _arXiv preprint_ arXiv:2403.02324, 4 Mar 2024.
 
 
 More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

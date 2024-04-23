@@ -136,7 +136,7 @@ Von Welch, "[Open Science Cyber Risk Profile publications](https://blog.trustedc
 
 ### Publications resulting from LBNL's involvement with Trusted CI:
 
-Andrew Adams, Dan Arnold, Jeannette Dopheide, Ryan Kiser, Mark Krenz, Drew Paine, Sean Peisert, Michael Simpson, and John Zage, "[Trusted CI Operational Technology Procurement Vendor Matrix](https://zenodo.org/doi/10.5281/zenodo.10257812)," Dec. 14, 2023. 
+Andrew Adams, Dan Arnold, Jeannette Dopheide, Ryan Kiser, Mark Krenz, Drew Paine, Sean Peisert, Michael Simpson, and John Zage, "[Trusted CI Operational Technology Procurement Vendor Matrix](https://zenodo.org/doi/10.5281/zenodo.10257812)," Dec. 14, 2023. DOI: 10.5281/zenodo.10257813
 
 Jim Basney, Sean Peisert, Scott Russell, Kelli Shute, Bart Miller, and Kathy Benninger, "[A Vision for Securing NSF's Essential Scientific Cyberinfrastructure - Trusted CI Five-Year Strategic Plan (2024-2029)](https://doi.org/10.5281/zenodo.8193607)," August 1, 2023.
 

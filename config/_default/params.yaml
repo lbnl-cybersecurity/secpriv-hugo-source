@@ -8,7 +8,7 @@
 appearance:
   theme: lbnl
   theme_day: lbnl
-  theme_night: lbnl
+#  theme_night: lbnl
   day_night: false
   font: ''
   font_size: S

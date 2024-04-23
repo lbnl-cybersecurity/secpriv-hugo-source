@@ -7,6 +7,30 @@ sitemap:
   priority = 0.7
 ---
 
+[Announcing publication of the Operational Technology Procurement Vendor Matrix](https://blog.trustedci.org/2023/12/announcing-publication-of-operational.html) — Dec. 15, 2023
+
+[Updates on Trusted CI’s Efforts in Cybersecurity by Design of NSF Academic Maritime Facilities](https://blog.trustedci.org/2023/07/updates-on-trusted-cis-efforts-in.html) — Jul. 24, 2023
+
+[SAVE THE DATE: Announcing the 2023 NSF Cybersecurity Summit, Oct 24-26, 2023 in Berkeley, CA](https://blog.trustedci.org/2023/03/save-date-announcing-2023-nsf.html) — Mar. 21, 2023
+
+[Registration Open for 3rd HPC Security Workshop at NIST NCCoE](https://blog.trustedci.org/2023/02/register-NIST-3rd-HPC-workshop.html) — Feb. 3, 2023
+
+[Announcing the 2023 Trusted CI Annual Challenge: Building Security Into NSF Major Facilities By Design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.html) — Jan. 25, 2023
+
+[Publication of the Trusted CI Roadmap for Securing Operational Technology in NSF Scientific Research](https://blog.trustedci.org/2022/11/publication-of-trusted-ci-roadmap-for.html) — Nov. 16, 2022.
+
+[Open Science Cyber Risk Profile (OSCRP) Updated with Science DMZ, Software Assurance, Operational Technology, and Cloud Computing Elements](https://blog.trustedci.org/2022/11/open-science-cyber-risk-profile-oscrp.html) — Nov. 1, 2022
+
+[Scientific Data Division Summer Students Tackle Data Privacy](https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/) - Sept. 15, 2022
+
+[Findings of the 2022 Trusted CI Study on the Security of Operational Technology in NSF Scientific Research](https://blog.trustedci.org/2022/07/findings-of-2022-trusted-ci-study-on.html) — July 15, 2022
+
+[Berkeley Lab’s Sean Peisert Tapped to Take on Deputy Director Role](https://cs.lbl.gov/news-media/news/2022/berkeley-labs-sean-peisert-tapped-to-take-on-deputy-director-role/) — June 28, 2022
+
+[Announcement of Trusted CI Director Transition](https://blog.trustedci.org/2022/06/announcement-of-trusted-ci-director.html) — June 27, 2022
+
+[Better Scientific Software (BSSw) Helps Promote Trusted CI Guide to Securing Scientific Software](https://blog.trustedci.org/2022/05/better-scientific-software-bssw-helps.html) — May 13, 2022
+
 [Announcing the 2022 Trusted CI Annual Challenge on Scientific OT/CPS Security](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html) - Jan. 5, 2022
 
 [Publication of the Trusted CI Guide to Securing Scientific Software](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html) — Dec. 14, 2021

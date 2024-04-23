@@ -65,7 +65,7 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 [Farzad Fatollahi-Fard][Farzad] (Computer Systems Engineer, CS) \
 [Dr. Jason Lowe-Power][Lowe-Power]  (Faculty Scientist, CS \& UC Davis) \
 [Dr. Drew Paine][Drew] (Computer Systems Engineer, CS) \
-[Dr. Damian Rouson](https://crd.lbl.gov/damian-rouson/) (Staff Scientist, CS) \
+[Dr. Damian Rouson](https://crd.lbl.gov/damian-rouson/) (Senior Scientist, CS) \
 [Dr. Jayson Vavrek][Jayson] (Research Scientist, ANP)
 
 
@@ -110,7 +110,7 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 
 #### Additional Collaborators
 
-[Dr. Nicholas Anderson][Anderson] (UC Davis Health) \ 
+[Dr. Nicholas Anderson][Anderson] (UC Davis Health) \
 [Dr. Jim Basney](https://jbasney.net) (UIUC/NCSA) \
 [Dr. Chen-Nee Chuah][Chuah] (UC Davis) \
 [Dr. Elisa Heymann Pignolo](https://www.cs.wisc.edu/staff/heymann-pignolo-elisa/) (University of Wisconsin) \

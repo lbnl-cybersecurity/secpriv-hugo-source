@@ -7,6 +7,8 @@ sitemap:
   priority = 0.7
 ---
 
+[Berkeley Lab Leading the Way with New Cybersecurity Projects](https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/) — Nov. 6, 2023
+
 [CIGAR 'Smokes Out' Attacks on Solar Electrical Power Equipment](https://crd.lbl.gov/news-and-publications/news/2021/cigar-smokes-out-attacks-on-solar-electrical-power-equipment/) — Jun. 7, 2021
 
 [Using Physics to Keep Our Electrical Grid Safe](https://newscenter.lbl.gov/2019/10/24/using-physics-to-keep-our-electrical-grid-safe/) — Oct. 24, 2019

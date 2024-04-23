@@ -1,6 +1,6 @@
 +++
 # Projects widget.
-widget = "projects"
+widget = "portfolio"
 headless = true
 active = true
 date = 2016-04-20T00:00:00
@@ -113,6 +113,8 @@ Recent highlights of Berkeley Lab Computing Sciences' cybersecurity R&D activiti
 
 ### Some recent news:
 
+[Announcing publication of the Operational Technology Procurement Vendor Matrix](https://blog.trustedci.org/2023/12/announcing-publication-of-operational.html) — Dec. 15, 2023
+
 [Updates on Trusted CI’s Efforts in Cybersecurity by Design of NSF Academic Maritime Facilities](https://blog.trustedci.org/2023/07/updates-on-trusted-cis-efforts-in.html) — Jul. 24, 2023
 
 [SAVE THE DATE: Announcing the 2023 NSF Cybersecurity Summit, Oct 24-26, 2023 in Berkeley, CA](https://blog.trustedci.org/2023/03/save-date-announcing-2023-nsf.html) — Mar. 21, 2023
@@ -137,6 +139,10 @@ Sean Peisert, [Open Science Cyber Risk Profile (OSCRP) Updated with Science DMZ,
 #### [Older News](/news)
 
 ### Key Representative Publications:
+
+Andrew Adams, Dan Arnold, Jeannette Dopheide, Ryan Kiser, Mark Krenz, Drew Paine, Sean Peisert, Michael Simpson, and John Zage, "[Trusted CI Operational Technology Procurement Vendor Matrix](https://zenodo.org/doi/10.5281/zenodo.10257812)," Dec. 14, 2023. DOI: 10.5281/zenodo.10257813
+
+Jim Basney, Sean Peisert, Scott Russell, Kelli Shute, Bart Miller, and Kathy Benninger, "[A Vision for Securing NSF's Essential Scientific Cyberinfrastructure - Trusted CI Five-Year Strategic Plan (2024-2029)](https://doi.org/10.5281/zenodo.8193607)," August 1, 2023.
 
 Ammar Haydari, Chen-Nee Chuah, Michael Zhang, Jane Macfarlane, and Sean Peisert, "Differentially Private Map Matching for Mobility Trajectories," _Proceedings of the [2022 Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org/2022/)_, Austin, TX, December 5-9, 2022.
 
