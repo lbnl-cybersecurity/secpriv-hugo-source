@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["network","fault tolerance","scientific computing","secure systems"]
+tags = ["network","fault tolerance","research cyberinfrastructure","secure systems"]
 
 # Project summary to display on homepage.
 summary = "This project focused on mapping and analyzing the qualities of resilient networks by investigating components of redundancy, diversity, quality of service, etc... The project's goal is to be able to quantify and compare the resilience of networks in a scientifically meaningful way.  This project was led at LBNL by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
@@ -38,4 +38,4 @@ This project was led at LBNL by [Sean Peisert](https://www.cs.ucdavis.edu/~peise
  
 More information is available at the [UC Davis resilience project web site](http://www.cs.ucdavis.edu/~peisert/projects/resilience.html).
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

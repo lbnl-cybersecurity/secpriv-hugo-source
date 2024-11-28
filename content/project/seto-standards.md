@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["differential privacy","power grid","machine learning","cyber-physical systems","data privacy"]
+tags = ["differential privacy","power grid","machine learning","cyber-physical systems","data privacy","AI"]
 
 # Project summary to display on homepage.
 summary = "This project aims to develop an understanding of security and performance requirements for the use of AI high solar / IBR / DER penetration scenarios, and also to develop an understanding of understanding power grid data confidentiality and privacy requirements.  It is funded by DOE's SETO office and is co-led by [Sean Peisert](https://https://www.cs.ucdavis.edu/~peisert/) and [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold)."
@@ -60,4 +60,4 @@ This project was supported by the U.S. Department of Energy's [Solar Energy Tech
 
 Robert Currie, Sean Peisert, Anna Scaglione, Aram Shumavon, and Nikhil Ravi, "Data Privacy for the Grid: Toward a Data Privacy Standard for Inverter-Based and Distributed Energy Resources," _[IEEE Power & Energy Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8014)_, 21(5), pp. 58-57, Sept.-Oct 2023.
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

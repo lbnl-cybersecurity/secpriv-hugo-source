@@ -54,4 +54,4 @@ More information is available at the [UC Davis ventilator project web site](http
 Jason Adams, Monica Lieng, Brooks Kuhn, Edward Guo, Edik Simonian, Sean Peisert, JP Delplanque, and Nick Anderson, "[Automated Mechanical Ventilator Waveform Analysis of Patient-Ventilator Asynchrony](https://escholarship.org/uc/item/4cp4891c)," _[CHEST Journal](http://journal.publications.chestnet.org/)_, 148(4), October 2015.
 [<A HREF="bibtex/Peisert2015CHEST.bib">bib</A> | <A HREF="https://doi.org/10.1378/chest.2281731">DOI</A> | <A HREF="https://escholarship.org/uc/item/4cp4891c">CDL</A>]
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

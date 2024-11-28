@@ -18,7 +18,7 @@ priority = 0.9
 
 +++
 
-Berkeley Lab's work on cybersecurity R&amp;D is cross-directorate and has included scientists from the [Computing Sciences (CS) research divisions][CSR], <!--[Scientific Data Division (SciData)][SciData], [Applied Mathematics and Computational Research (AMCR)](AMCR),--> [ESnet][ESnet], [NERSC][NERSC], [IT Division][IT], [Energy Technologies Area][ETA], [Applied Nuclear Physics](https://anp.lbl.gov), and a number of external academic and industry [partners][partners].  It also works with the Berkeley Lab [Office of National Homeland Security (ONHS)][ONHS].
+Berkeley Lab's work on cybersecurity research is cross-directorate and has included scientists from the [Computing Sciences (CS) research divisions][CSR], <!--[Scientific Data Division (SciData)][SciData], [Applied Mathematics and Computational Research (AMCR)](AMCR),--> [ESnet][ESnet], [NERSC][NERSC], [IT Division][IT], [Energy Technologies Area][ETA], [Applied Nuclear Physics](https://anp.lbl.gov), and a number of external academic and industry [partners][partners].  It also works with the Berkeley Lab [Office of National Homeland Security (ONHS)][ONHS].
 
 [CSR]: https://crd.lbl.gov
 [ONHS]: https://research.lbl.gov/service/office-of-national-homeland-security/
@@ -63,8 +63,10 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 [Dr. Venkatesh Akella][Akella] (Faculty Scientist, CS \& UC Davis) \
 [Joshua Boverhof][Boverhof] (Computer Systems Engineer, CS) \
 [Farzad Fatollahi-Fard][Farzad] (Computer Systems Engineer, CS) \
+[Dr. Paul Hargrove](https://crd.lbl.gov/paul-hargrove/) (Computer Systems Engineer, CS) \
 [Dr. Jason Lowe-Power][Lowe-Power]  (Faculty Scientist, CS \& UC Davis) \
 [Dr. Drew Paine][Drew] (Computer Systems Engineer, CS) \
+[Kate Rasmussen](https://crd.lbl.gov/katherine-rasmussen/) (Computer Systems Engineer, CS) \
 [Dr. Damian Rouson](https://crd.lbl.gov/damian-rouson/) (Senior Scientist, CS) \
 [Dr. Jayson Vavrek][Jayson] (Research Scientist, ANP)
 
@@ -82,8 +84,7 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 
 #### Postdocs
 
-[Dr. Hang Liu](https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en) ([Cornell Tech](https://www.tech.cornell.edu)) \
-[Dr. Tong Wu](https://sinelab.tech.cornell.edu/research/people/tong_wu/) ([Cornell Tech](https://www.tech.cornell.edu))
+[Dr. Hang Liu](hhttps://sinelab.tech.cornell.edu/research/people/hang_liu/) ([Cornell Tech](https://www.tech.cornell.edu)) 
 
 <!--
 #### Research Staff
@@ -99,12 +100,14 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 
 [Andrew Campbell](https://sinelab.tech.cornell.edu/research/people/andrew_campbell/) (Cornell Tech) \
 [Kaustav Goswami](https://sites.google.com/view/kaustavgoswami) (UC Davis) \
-[Nikhil Ravi][Nikhil] (Cornell Tech) 
+[Chitrabhanu Gupta][Gupta] (2024 Summer Student, UC Davis)
 
+#### Undergraduate Students
+
+[Lawrence Su](https://www.linkedin.com/in/lawrencesu1/) (University of Wisconsin-Madison)
 
 #### Berkeley Lab Cybersecurity R\&D Affiliates
 
-[Dr. Yize Chen][Chen] (Postdoc) → Assistant Professor, Hong Kong University of Science and Technology (HKUST) \
 [Dr. Jane Macfarlane][Macfarlane] (UC Berkeley) \
 [Dr. Anna Scaglione][Scaglione] (Cornell Tech) 
 
@@ -113,9 +116,14 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 [Dr. Nicholas Anderson][Anderson] (UC Davis Health) \
 [Dr. Jim Basney](https://jbasney.net) (UIUC/NCSA) \
 [Dr. Chen-Nee Chuah][Chuah] (UC Davis) \
-[Dr. Elisa Heymann Pignolo](https://www.cs.wisc.edu/staff/heymann-pignolo-elisa/) (University of Wisconsin) \
-[Dr. Barton P. Miller](https://pages.cs.wisc.edu/~bart/) (University of Wisconsin) \
-[Aram Shumavon][Shumavon] (Kevala, Inc.)  
+[Carolyn Ellis](https://search.asu.edu/profile/5012856) (Arizona State University) \
+[Dr. Elisa Heymann Pignolo](https://www.cs.wisc.edu/staff/heymann-pignolo-elisa/) (University of Wisconsin-Madison) \
+[James A. Marsteller](https://www.linkedin.com/in/james-a-marsteller-cissp-2874b21/) (Pittsburgh Supercomputing Center) \
+[Dr. Barton P. Miller](https://pages.cs.wisc.edu/~bart/) (University of Wisconsin-Madison) \
+[Scott Russell, J.D.](https://cacr.iu.edu/about/people/scott-russell.html) (Indiana University) \
+[Aram Shumavon][Shumavon] (Kevala, Inc.) \
+[Kelli Shute](https://cacr.iu.edu/about/people/kelli-shute.html) (Indiana University) \
+[Dr. Tong Wu](https://tong-andrew-wu.github.io) (University of Central Florida)
 
 
 <!--
@@ -123,7 +131,7 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 -->
 
 
-<!-- Contributors to LBNL's cybersecurity R&D efforts from other divisions in the past few years include, but are not limited to: -->
+<!-- Contributors to LBNL's cybersecurity research efforts from other divisions in the past few years include, but are not limited to: -->
 
 <!--
 &nbsp;                      | &nbsp;                          | &nbsp;
@@ -134,20 +142,24 @@ Current Berkeley Lab scientific research staff, faculty scientist, postdoc, and 
 [Adam Stone][29] (IT Division) | &nbsp;
  -->
  
- <!-- LBNL's cybersecurity R&D efforts have also included numerous collaborators from  other divisions, notably LBNL IT Division, ESnet, NERSC. -->
+ <!-- LBNL's cybersecurity research efforts have also included numerous collaborators from  other divisions, notably LBNL IT Division, ESnet, NERSC. -->
 
 
 
 <!-- #### Alumni -->
 
-#### Recent LBNL CS Cybersecurity R&D Alumni and Close Collaborators
+#### Recent LBNL CS Cybersecurity research Alumni and Close Collaborators
 
+[Dr. Tong Wu](https://tong-andrew-wu.github.io) (Cornell Tech Postdoc, 2002-2004 → Assistant Professor, University of Central Florida) \
+[Luozhong Zhou](https://mikotohhh.github.io/luozhong.github.io//) (B.S. 2024, University of Wisconsin-Madison &rarr; M.S. program, MIT) \
+[Nikhil Ravi][Nikhil] (Ph.D., Cornell Tech. 2024) \
 [Leah Woldemariam](https://sinelab.tech.cornell.edu/research/people/leah_woldemariam/) (Ph.D Student, Cornell Tech, 2023) \
 [Dr. Ayaz Akram][Akram] (Ph.D., UC Davis, 2023 → Samsung Advanced Computing Labs) \
 [Dr. Hein Meling][Meling] (U. Stavanger, Affiliate Visiting Faculty) \
 [Daniel Gunter][Gunter] (Computer Systems Manager, CS) \
 [Ignacio Losada Carreño][Ignacio] (Ph.D, Cornell Tech 2023 → Quantitative Researcher, DV Trading, LLC) \
 [Dr. Bob Currie](https://www.linkedin.com/in/robertafcurrie/) (VP Product and Strategy, Kevala) \
+[Dr. Yize Chen][Chen] (2001-2002 Postdoc) → Assistant Professor, Hong Kong University of Science and Technology (HKUST) → Assistant Professor, University of Alberta \
 [Ciaran Roberts][Roberts]  (Sr. Sci. Engr. Assoc., ETA \& PhD. Student, UC Berkeley; Ph.D. 2023) → Power Systems Controls Engineer, [SPAN](https://www.span.io) \
 [Dr. Bashir Mohammed][Bashir] (Computational Systems Engineer, SciData) → Intel \
 [Sy-Toan Ngo][Ngo] (Sr. Scientific Engineering Associate, ETA) → Computer Systems Engineer SciData \

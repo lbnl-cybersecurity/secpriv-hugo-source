@@ -64,4 +64,4 @@ Yize Chen, Yuanyuan Shi, Daniel Arnold, and Sean Peisert, "SAVER: Safe Learning-
 
 Yize Chen, Daniel Arnold, Yuanyuan Shi, and Sean Peisert, "Understanding the Safety Requirements for Learning-based Power Systems Operations," arXiv preprint [arXiv:2110.04983](https://arxiv.org/abs/2110.04983), 11 Oct 2021
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

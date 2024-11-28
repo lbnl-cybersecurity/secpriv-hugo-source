@@ -49,4 +49,4 @@ This project is supported by the the U.S. Department of Homeland Security's [Sci
 
 Sean Peisert, "[The Current State of Software Assurance Tools and Techniques](https://escholarship.org/uc/item/3435g520)," LBNL Technical Report, October 24, 2022.
 
-More information is available on other Berkeley Lab R&D [cybersecurity](/projects/) projects.
+More information is available on other Berkeley Lab research [cybersecurity](/projects/) projects.

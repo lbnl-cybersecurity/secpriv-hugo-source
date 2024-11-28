@@ -53,4 +53,4 @@ Emma Stewart (Lead; LLNL)  \
 This project is supported by the U.S. Department of Energy's [Grid Modernization Initiative](http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards).
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

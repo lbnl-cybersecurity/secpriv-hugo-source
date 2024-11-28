@@ -18,15 +18,15 @@ priority = 0.9
 
 +++
 
-LBNL's work on cybersecurity R&amp;D has involved partnerships with numerous industry and academic partners, including but not limited to the companies and universities listed here.
+LBNL's work on cybersecurity research has involved partnerships with numerous industry and academic partners, including but not limited to the companies and universities listed here.
 
 ## Current
 
+{{< figure library="1" src="/partners/asu_logo.png" title="Arizona State University" >}}
 
 {{< figure library="1" src="/partners/cornell.png" title="Cornell Tech" >}}
 
 {{< figure library="1" src="/partners/IU_CACR_PTI.png" title="Indiana University - Center for Applied Cybersecurity Research" >}}
-
 
 {{< figure library="1" src="/partners/kevala_analytics.png" title="Kevala" >}}
 
@@ -36,12 +36,11 @@ LBNL's work on cybersecurity R&amp;D has involved partnerships with numerous ind
 
 {{< figure library="1" src="/partners/NRECA.png" title="National Rural Electric Cooperative Association (NRECA)" >}}
 
-{{< figure library="1" src="/partners/PSC.png" title="Pittsburgh Supercomputing Center - Carnegie Mellon University" >}}
-
-
-{{< figure library="1" src="/partners/PortlandGeneralElectric.jpeg" title="Portland General Electric" >}}
+{{< figure library="1" src="/partners/PSC.png" title="Pittsburgh Supercomputing Center" >}}
 
 {{< figure library="1" src="/partners/siemens.png" title="Siemens" >}}
+
+{{< figure library="1" src="/partners/shi.png" title="Sustainable Horizons Institute" >}}
 
 {{< figure library="1" src="/partners/ucb_primarylogo.png" title="University of California, Berkeley" >}}
 
@@ -52,8 +51,6 @@ LBNL's work on cybersecurity R&amp;D has involved partnerships with numerous ind
 
 ## Past
 
-{{< figure library="1" src="/partners/asu_logo.png" title="Arizona State University" >}}
-
 {{< figure library="1" src="/partners/corelight.png" title="Corelight" >}}
 
 {{< figure library="1" src="/partners/enernex.png" title="EnerNex" >}}
@@ -61,6 +58,8 @@ LBNL's work on cybersecurity R&amp;D has involved partnerships with numerous ind
 {{< figure library="1" src="/partners/epri.png" title="Electric Power Research Institute (EPRI)" >}}
 
 {{< figure library="1" src="/partners/osisoft.png" title="OSIsoft" >}}
+
+{{< figure library="1" src="/partners/PortlandGeneralElectric.jpeg" title="Portland General Electric" >}}
 
 {{< figure library="1" src="/partners/power-standards-lab.png" title="Power Standards Laboratory" >}}
 

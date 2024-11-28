@@ -59,4 +59,4 @@ Read more at the [UC-National Lab Center for Power Distribution Cyber Security w
 
 This project is funded by the [UC-Lab Fees Research Program](https://www.ucop.edu/research-initiatives/programs/lab-fees/).
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

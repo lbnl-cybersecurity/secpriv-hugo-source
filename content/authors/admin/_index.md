@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cybersecurity R&D for Science and Energy at the Berkeley Lab
+title: Cybersecurity Research for Science and Energy at the Berkeley Lab
 
 # Is this the primary user of the site?
 superuser: true
@@ -74,22 +74,22 @@ email: ""
 highlight_name: true
 ---
 
-Berkeley Lab [Computing Sciences Research][CRD] is an active participant numerous projects areas of computer security. Its mission-driven emphasis has historically focused on [security for science, including high-performance computing and high-throughput networking environments](/research/scientific-computing), and [security of cyber-physical systems](/research/ceds/), notably in the power grid.  These projects include collaborations with numerous other academic, National Lab, and industry partners.  R&D sponsors have included the [Department of Energy (DOE)][DOE] [Advanced Scientific Computing Research (ASCR)][ASCR] and [Cybersecurity for Energy Delivery Systems (CEDS) R&D][CEDS R&D] programs, the [National Nuclear Security Administration (NNSA)](http://nnsa.energy.gov), the [National Science Foundation (NSF)][NSF]  [Secure and Trustworthy Computing (SaTC)](https://www.nsf.gov/funding/pgm_summ.jsp?from=fund&orgAbbr=NSF&pims_id=504709) program and [Office of Advanced Cyberinfrastructure (OAC)](https://www.nsf.gov/div/index.jsp?div=OAC) office, the U.S. Department of Homeland Security's [Science and Technology Directorate](https://www.dhs.gov/science-and-technology), and the [National Security Agency][NSA], among others.  
+Berkeley Lab [Computing Sciences Research][CRD] is an active participant numerous projects areas of computer security. Its mission-driven emphasis has historically focused on [security for science, including high-performance computing and high-throughput networking environments](/research/research-cyberinfrastructure), and [security of cyber-physical systems](/research/ceds/), notably in the power grid.  These projects include collaborations with numerous other academic, National Lab, and industry partners.  research sponsors have included the [Department of Energy (DOE)][DOE] [Advanced Scientific Computing Research (ASCR)][ASCR] and [Cybersecurity for Energy Delivery Systems (CEDS) research][CEDS research] programs, the [National Nuclear Security Administration (NNSA)](http://nnsa.energy.gov), the [National Science Foundation (NSF)][NSF]  [Secure and Trustworthy Computing (SaTC)](https://www.nsf.gov/funding/pgm_summ.jsp?from=fund&orgAbbr=NSF&pims_id=504709) program and [Office of Advanced Cyberinfrastructure (OAC)](https://www.nsf.gov/div/index.jsp?div=OAC) office, the U.S. Department of Homeland Security's [Science and Technology Directorate](https://www.dhs.gov/science-and-technology), and the [National Security Agency][NSA], among others.  
 
 [ASCR]: https://science.osti.gov/ascr/
-[CEDS R&D]: https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and
+[CEDS research]: https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and
 [DOE]: https://www.energy.gov
 [NSA]: https://www.nsa.gov
 [NNSA]: https://nnsa.energy.gov
 [NSF]: https://www.nsf.gov
 
-Berkeley Lab has had a leadership role in security in scientific computing environments for many years, including the development of the [Zeek (Bro) Network Security Monitor][Zeek], as well as leading several DOE-sponsored activities related to defining a cybersecurity research program within the DOE.  <!--More recently, Berkeley Lab led the coordination of the ["Cyber R&amp;D" Enterprise Cyber Capability (ECC)][iJC3] of the DOE-wide Integrated Joint Cybersecurity Coordination Center (iJC3) — a sponsored R&amp;D program involving ten DOE National Laboratories as performers.-->  Berkeley Lab is a co-lead of [Trusted CI, the NSF Cybersecurity Center of Excellence]({{< ref "/project/nsf-trustedci.md" >}}).
+Berkeley Lab has had a leadership role in security in scientific computing environments for many years, including the development of the [Zeek (Bro) Network Security Monitor][Zeek], as well as leading several DOE-sponsored activities related to defining a cybersecurity research program within the DOE.  <!--More recently, Berkeley Lab led the coordination of the ["Cyber research" Enterprise Cyber Capability (ECC)][iJC3] of the DOE-wide Integrated Joint Cybersecurity Coordination Center (iJC3) — a sponsored research program involving ten DOE National Laboratories as performers.-->  Berkeley Lab is the lead institution of [Trusted CI, the NSF Cybersecurity Center of Excellence]({{< ref "/project/nsf-trustedci.md" >}}).
 
 [CRD]: https://crd.lbl.gov
 [Zeek]: https://www.zeek.org
 [iJC3]: https:/ijc3.lbl.gov
 
-Recent highlights of LBNL Computing Sciences' cybersecurity R&D activities include:
+Recent highlights of LBNL Computing Sciences' cybersecurity research activities include:
 
 <!--
 * Developing findings reports and solutions guides for [scientific data integrity](http://hdl.handle.net/2022/24910), [scientific data confidentiality](https://escholarship.org/uc/item/7cz7m1ws), [software assurance in science](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html), the [security of operational technology in science](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html), and [building security into maritime and polar NSF Major Facilities by design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.htm).
@@ -106,15 +106,15 @@ Recent highlights of LBNL Computing Sciences' cybersecurity R&D activities inclu
 
 -->
 
-* Leading studies into [scientific data integrity](http://hdl.handle.net/2022/24910), [scientific data confidentiality](https://escholarship.org/uc/item/7cz7m1ws), and [software assurance in science](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html), [operational technology in science](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html), and [building security into NSF Major Facilities by design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.html).  &rArr; The latter is directly impacting design, construction, and operations of the [California Coastal Research Vessel](https://scripps.ucsd.edu/news/uc-san-diego-receives-35-million-state-funding-new-california-coastal-research-vessel), the NSF [Regional Class Research Vessels](https://ceoas.oregonstate.edu/regional-class-research-vessel-rcrv), [U.S. Antarctic Program’s](https://www.usap.gov/) [$1B icebreaker](https://www.nsf.gov/news/news_summ.jsp?cntn_id=305919&org=OPP), and [Ocean Observatory Initiatives](https://oceanobservatories.org/)’ replacement of hundreds of underwater autonomous vehicles.
+* Leading studies into [scientific data integrity](http://hdl.handle.net/2022/24910), [scientific data confidentiality](https://escholarship.org/uc/item/7cz7m1ws), and [software assurance in science](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html), [operational technology in science](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html), and [building security into NSF Major Facilities by design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.html).  &rArr; The latter is directly impacting design, construction, and operations of the [California Coastal Research Vessel](https://scripps.ucsd.edu/news/design-worlds-first-hydrogen-hybrid-research-vessel-approved), the NSF [Regional Class Research Vessels](https://ceoas.oregonstate.edu/regional-class-research-vessel-rcrv), [U.S. Antarctic Program’s](https://www.usap.gov/) [$1B icebreaker](https://future.usap.gov/arv/), and [Ocean Observatory Initiatives](https://oceanobservatories.org/)’ replacement of hundreds of underwater autonomous vehicles.
 
-* Developed definitions and R&D roadmaps for [hardware/software co-design of future HPC systems](https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/), high-throughput networks, and networked scientific instruments to build cybersecurity in by design. &rArr; Led directly to HPC cybersecurity elements of DOE funding solicitations and has been central to [NIST HPC Security working group](https://csrc.nist.gov/projects/high-performance-computing-security).
+* Developed definitions and research roadmaps for [hardware/software co-design of future HPC systems](https://secpriv.lbl.gov/project/ascr-hpc-cybersecurity-codesign/), high-throughput networks, and networked scientific instruments to build cybersecurity in by design. &rArr; Led directly to HPC cybersecurity elements of DOE funding solicitations and has been central to [NIST HPC Security working group](https://csrc.nist.gov/projects/high-performance-computing-security).
 
 * Development of [secure computation architectures]({{< ref "/project/desc.md" >}}) optimized for scientific computing to ensure trustworthiness of scientific data from the edge to the HPC center.
 
 * Development and application of differential privacy to [power grid](https://secpriv.lbl.gov/project/ceds-privacy/) and [vehicle mobility](https://secpriv.lbl.gov/project/csr-private-data/) data and applications &rArr; The DOE Office of [Cybersecurity, Energy Security, and Emergency Response (CESER)](https://www.energy.gov/ceser/office-cybersecurity-energy-security-and-emergency-response) is seeking to deploy the former operationally and the latter has already enabled mobility research otherwise not possible due to data sharing restrictions.
 
-* Developed the first practical approaches to [integrate physics of operational technology in the power grid with intrusion detection]({{< ref "/project/ceds-cps-security.md" >}}) to ensure their secure operation. &rArr; Now broadly used in applied R&D efforts globally, and appear in DOE funding solicitations and Congressional budget appropriations.
+* Developed the first practical approaches to [integrate physics of operational technology in the power grid with intrusion detection]({{< ref "/project/ceds-cps-security.md" >}}) to ensure their secure operation. &rArr; Now broadly used in applied research efforts globally, and appear in DOE funding solicitations and Congressional budget appropriations.
 
 * Co-leading the *[Open Science Cyber Risk Profile (OSCRP)](http://trustedci.github.io/OSCRP/)* working group --- an approach to help research cyberinfrastructure operators understand cyber risks. &rArr; Now a recommended reference in all [NSF CICI solicitations](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505159) since 2018 and the [NSF Research Infrastructure Guide (RIG) (21-107, Dec. 2021)](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf21107).
 
@@ -128,6 +128,8 @@ Recent highlights of LBNL Computing Sciences' cybersecurity R&D activities inclu
 -->
 
 ### Recent News
+
+[Cybersecurity Center of Excellence Receives Five-Year, $6M/Year Award From NSF](https://cs.lbl.gov/news-media/news/2024/trusted-ci-nsf-release) [[expanded announcement](https://crd.lbl.gov/news-and-publications/news/2024/trusted-ci-nsf-award)] — Oct. 3, 2024
 
 [Announcing publication of the Operational Technology Procurement Vendor Matrix](https://blog.trustedci.org/2023/12/announcing-publication-of-operational.html) — Dec. 15, 2023
 

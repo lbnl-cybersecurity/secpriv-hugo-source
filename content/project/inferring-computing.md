@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["HPC","cyber-physical systems","machine learning","scientific computing"]
+tags = ["HPC","cyber-physical systems","machine learning","research cyberinfrastructure"]
 
 # Project summary to display on homepage.
 summary = "This project uses power data to monitor the use of computing systems, including supercomputers and large computing centers.   It is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
@@ -59,11 +59,11 @@ Melissa Stockman, Dipankar Dwivedi, Reinhard Gentz, Sean Peisert, "[Detecting Pr
 Bogdan Copos, Sean Peisert (advisor), [_Modeling Systems Using Side Channel Information_](https://www.escholarship.org/uc/item/1xb249zt). PhD dissertation, University of California, Davis, 2017.
 
 
-More information is available on other LBNL R&D projects focusing on [cybersecurity](/) in general, as well as specifically on [HPC Security projects](/research/hpc-security/).
+More information is available on other LBNL research projects focusing on [cybersecurity](/) in general, as well as specifically on [HPC Security projects](/research/hpc-security/).
 
 
 ### Software resulting from this project:
 
 [Identifying Computational Operations Based on Power Measurements](https://ipo.lbl.gov/lbnl2016-053/)
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

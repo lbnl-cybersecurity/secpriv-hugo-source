@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["data privacy","scientific computing"]
+tags = ["data privacy","research cyberinfrastructure"]
 
 # Project summary to display on homepage.
 summary = "This  project looked at defining means for understanding what data can be sanitized, and how.  At LBNL, this project was led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) and was funded by the Institute for Information Infrastructure Protection (I3P)."
@@ -36,4 +36,4 @@ This seed project looked at defining means for understanding what data can be sa
 
 More information is available at the [UC Davis data sanitization project web site](http://www.cs.ucdavis.edu/%7Epeisert/projects/sanitization.html).
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

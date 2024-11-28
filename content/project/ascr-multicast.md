@@ -130,4 +130,4 @@ Giuseppe Ateniese, Olivier Chevassut, Damian Hasse, Yongdae Kim, and Gene Tsudik
 Deborah A Agarwal. [Using multicast in the global communications infrastructure for group communication](https://www.osti.gov/servlets/purl/767536). Lawrence Berkeley National Laboratory, 1999.
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/).

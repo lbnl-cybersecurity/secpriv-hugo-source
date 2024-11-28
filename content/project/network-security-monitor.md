@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["scientific computing", "secure systems", "network"]
+tags = ["research cyberinfrastructure", "secure systems", "network"]
 
 # Project summary to display on homepage.
 summary = "Vern Paxson developed the Bro/Zeek Network Security Monitor while at Lawrence Berkeley National Laboratory."
@@ -55,4 +55,4 @@ The canonical reference for Zeek/Bro is Paxson's 1999 ``[Bro: A System for Detec
 
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

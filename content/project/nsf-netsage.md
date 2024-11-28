@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["network","machine learning","scientific computing"]
+tags = ["network","machine learning","research cyberinfrastructure"]
 
 # Project summary to display on homepage.
 summary = "NetSage is a network measurement, analysis and visualization service funded by the National Science Foundation and is designed to address the needs of today's international networks.  This project is co-led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) at LBNL."
@@ -75,4 +75,4 @@ Alberto Gonzalez, Jason Leigh, Sean Peisert, Brian Tierney, Andrew Lee, Jennifer
 
 [Research Network Transfer Performance Predictor (netperf-predict)](https://github.com/lbnl-cybersecurity/tstat-dtn-analysis)
   
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

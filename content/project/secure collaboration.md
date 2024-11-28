@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["scientific computing", "secure systems"]
+tags = ["research cyberinfrastructure", "secure systems"]
 
 # Project summary to display on homepage.
 summary = "This project developed advanced approaches to to secure scientific computing collaborations."
@@ -63,4 +63,4 @@ Deborah Agarwal, Charles McParland, and Marcia Perry. [Supporting collaborative 
 
 Deborah Agarwal, Keith Jackson, and Mary Thompson. [Securing collaborative environments](https://www.osti.gov/biblio/801956).  Technical report LBNL-50427, Lawrence Berkeley National Laboratory, 2002.
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["nuclear treaty assurance"]
+tags = ["nuclear treaty assurance","cyber-physical systems"]
 
 # Project summary to display on homepage.
 summary = "This project aims verify that software operating on arms control monitoring equipment is within agreed parameters.  It is funded by the National Nuclear Security Administration Office of Defense Nuclear Nonproliferation Research and Development and is led by [Sean Peisert](https://https://www.cs.ucdavis.edu/~peisert/)."
@@ -24,7 +24,7 @@ math = false
 # Does the project detail page use source code highlighting?
 highlight = true
 
-featured = false
+featured = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -54,10 +54,18 @@ Joshua Boverhof (LBNL) \
 Elisa Heymann Pignolo (University of Wisconsin-Madison) \
 [Jayson Vavrek](https://scholar.google.com/citations?user=BhqfFmwAAAAJ&hl=en&oi=ao) (LBNL)
 
+#### Students:
+
+[Lawrence Su](https://www.linkedin.com/in/lawrencesu1/) (University of Wisconsin-Madison)
+
+#### Former Students:
+
+[Luozhong Zhou](https://mikotohhh.github.io/luozhong.github.io//) (B.S. 2024, University of Wisconsin-Madison &rarr; M.S. program, MIT)
+
 
 ### Publications resulting from this project:
 
 Jayson R. Vavrek, Luozhong Zhou, Joshua Boverhof, Elisa R. Heymann, Barton P. Miller, and Sean Peisert. [Differential Fuzz Testing to Detect Tampering In Sensor Systems and its Application to Arms Control Authentication](https://arxiv.org/abs/2404.05946), arXiv preprint 2404.05946, 9 Apr 2024.
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/).

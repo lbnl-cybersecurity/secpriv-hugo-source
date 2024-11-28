@@ -1,16 +1,16 @@
 +++
 title = "Trusted CI, the National Science Foundation Cybersecurity of Excellence"
-date = 2023-04-28
+date = 2024-09-11
 draft = false
 profile = false
 show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["scientific computing","software assurance","cyber-physical systems","secure systems","maritime"]
+tags = ["research cyberinfrastructure","software assurance","cyber-physical systems","secure systems","maritime"]
 
 # Project summary to display on homepage.
-summary = "The mission of Trusted CI is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.  The PI of Trusted CI at University of Illinois, Urbana-Champaign is Jim Basney.  LBNL's role in Trusted CI is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
+summary = "The mission of Trusted CI is to improve the cybersecurity of NSF computational science and engineering projects, while allowing those projects to focus on their science endeavors.  [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) is the Director- and PI-Designate of Trusted CI."
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -38,13 +38,15 @@ caption = ""
 
 
 
-#### Principal Investigators and Site Leads
+#### Principal Investigators and Site Leads (October 2024 Onwards)
 
-[Jim Basney](http://www.ncsa.illinois.edu/People/jbasney/) (Director, PI, and Site Lead at UIUC/NCSA) \
-[Kathy Benninger](https://psc.edu/staff/benninger) (Lead at CMU/PSC) \
-[Barton Miller](http://pages.cs.wisc.edu/~bart/) (Co-PI and Site Lead at U. Wisc.) \
-[Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) (Deputy Director, Co-PI, and Site Lead at LBNL) \
-[Scott Russell](https://cacr.iu.edu/about/people/scott-russell.html) (IU) \
+[Jim Basney](https://jbasney.net) (Co-PI, Senior Advisor, and Site Lead at UIUC/NCSA [PI and Director, 2022-Sept. 2024]) \
+[Carolyn Ellis](https://search.asu.edu/profile/5012856) (Co-PI and Site Lead at ASU) \
+[Mary Ann Leung](https://shinstitute.org/mary-ann-leung-founder-and-president-2/) (Site Lead at SHI) \
+[James A. Marsteller](https://www.psc.edu/james-marsteller/) (Co-PI and Site Lead at PSC) \
+[Barton Miller](http://pages.cs.wisc.edu/~bart/) (Site Lead at UW-Madison) \
+[Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) (PI and Director, Site Lead at LBNL) \
+[Scott Russell](https://cacr.iu.edu/about/people/scott-russell.html) (Deputy Director, IU) \
 [Kelli Shute](https://cacr.iu.edu/about/people/kelli-shute.html) (Executive Director, Co-PI, and Site Lead at IU)
 
 
@@ -64,9 +66,9 @@ caption = ""
 
 #### Former PIs and Site Leads:
 
-[Dana Brunson](https://www.linkedin.com/in/dana-brunson-3955ab11/) (Former Co-PI / Lead at Internet2) \
+[Kathy Benninger](https://psc.edu/staff/benninger) (Former Site Lead at PSC) \
+[Dana Brunson](https://www.linkedin.com/in/dana-brunson-3955ab11/) (Former Co-PI / Site Lead at Internet2) \
 [Randal Butler](https://www.linkedin.com/in/randy-butler-59821911/) (Former Co-PI at UIUC) \
-[James  Marsteller](https://www.linkedin.com/in/james-a-marsteller-cissp-2874b21/) (Former Co-PI and Lead at CMU/PSC) \
 [Von Welch](http://www.vonwelch.com/about/) (Former PI and Founding Director, IU)
 
 
@@ -74,7 +76,7 @@ The mission of Trusted CI, the National Science Foundation Cybersecurity of Exce
 
 As the National Science Foundation Cybersecurity Center of Excellence, Trusted CI draws on expertise from multiple internationally recognized institutions, including [Indiana University](https://cacr.iu.edu/), the [University of Illinois](https://www.ncsa.illinois.edu/), the [University of Wisconsin-Madison](https://www.wisc.edu/), the [Pittsburgh Supercomputing Center](https://www.psc.edu/), and [Berkeley Lab](https://www.lbl.gov/). Drawing on this expertise, Trusted CI collaborates with NSF-funded research organizations to focus on addressing the unique cybersecurity challenges faced by such entities. In addition to our leadership team, a world-class [Trusted CI Advisory Committee](https://www.trustedci.org/advisory-committee) adds its experience and a critical eye to the center's strategic decision-making.
 
-Berkeley Lab's roles in Trusted CI has included co-leading the [Open Science Cyber Risk Profile (OSCRP)](http://trustedci.github.io/OSCRP/) working group -- a cross-disciplinary group of computer security professionals and scientific researchers that worked to develop a document designed to help researchers understand the cyber risks to their work.  It has also led studies into [scientific data integrity](http://hdl.handle.net/2022/24910), [scientific data confidentiality](https://escholarship.org/uc/item/7cz7m1ws), [software assurance in science](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html), the [security of operational technology in science](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html), and [building security into NSF Major Facilities by design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.htm).
+Berkeley Lab is the lead institution for Trusted CI.  Berkeley Lab's additional roles in Trusted CI have included co-leading the [Open Science Cyber Risk Profile (OSCRP)](http://trustedci.github.io/OSCRP/) working group -- a cross-disciplinary group of computer security professionals and scientific researchers that worked to develop a document designed to help researchers understand the cyber risks to their work.  It has also led studies into [scientific data integrity](http://hdl.handle.net/2022/24910), [scientific data confidentiality](https://escholarship.org/uc/item/7cz7m1ws), [software assurance in science](https://blog.trustedci.org/2021/12/publication-of-trusted-ci-guide-to.html), the [security of operational technology in science](https://blog.trustedci.org/2022/01/announcing-2022-trusted-ci-annual.html), and [building security into NSF Major Facilities by design](https://blog.trustedci.org/2023/01/announcing-2023-trusted-ci-annual.htm).
 
 
 This project is supported by award # [ACI-1547272](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1547272), [OAC-1920430](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1920430), and [OAC-2241313](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2241313) from the National Science Foundation's Office of Advanced Cyberinfrastructure.
@@ -82,6 +84,8 @@ This project is supported by award # [ACI-1547272](https://www.nsf.gov/awardsear
 Read more at the [Trusted CI web site](https://trustedci.org).
 
 ### News about from LBNL's involvement with this center:
+
+[Cybersecurity Center of Excellence Receives Five-Year, $6M/Year Award From NSF](https://cs.lbl.gov/news-media/news/2024/trusted-ci-nsf-release) [[expanded announcement](https://crd.lbl.gov/news-and-publications/news/2024/trusted-ci-nsf-award)] — Oct. 3, 2024
 
 "[Mind the gap: Speaking like a cybersecurity pro](https://sciencenode.org/feature/mind-the-gap-how-to-speak-like-an-information-security-pro.php)," [Science Node](https://sciencenode.org), February 10, 2017.
 
@@ -136,6 +140,10 @@ Von Welch, "[Open Science Cyber Risk Profile publications](https://blog.trustedc
 
 ### Publications resulting from LBNL's involvement with Trusted CI:
 
+Andrew Adams, Daniel Arnold, Jeannette Dopheide, Shane Filus, Mikeal Jones, Mark Krenz, Drew Paine, Sean Peisert, Michael M. Simpson, and John Zage, "[Guide to Using the Trusted CI OT Procurement Matrix](https://doi.org/10.5281/zenodo.13743314)," Sept. 23, 2024. DOI: 10.5281/zenodo.13743314
+
+Andrew Adams, Dan Arnold, Jeannette Dopheide, Ryan Kiser, Mark Krenz, Drew Paine, Sean Peisert, Michael M. Simpson, and John Zage, "[Trusted CI Operational Technology Procurement Vendor Matrix v2](https://zenodo.org/doi/10.5281/zenodo.13743313)," Sept. 23, 2024. DOI: 0.5281/zenodo.13743313
+
 Andrew Adams, Dan Arnold, Jeannette Dopheide, Ryan Kiser, Mark Krenz, Drew Paine, Sean Peisert, Michael Simpson, and John Zage, "[Trusted CI Operational Technology Procurement Vendor Matrix](https://zenodo.org/doi/10.5281/zenodo.10257812)," Dec. 14, 2023. DOI: 10.5281/zenodo.10257813
 
 Jim Basney, Sean Peisert, Scott Russell, Kelli Shute, Bart Miller, and Kathy Benninger, "[A Vision for Securing NSF's Essential Scientific Cyberinfrastructure - Trusted CI Five-Year Strategic Plan (2024-2029)](https://doi.org/10.5281/zenodo.8193607)," August 1, 2023.
@@ -167,6 +175,8 @@ Sean Peisert, Von Welch, Andrew Adams, Michael Dopheide, Susan Sons, RuthAnne Be
 
 ### Trusted CI Webinars and Talks involving personnel from LBNL:
 
+Sean Peisert, “LBNL Electric Grid Cybersecurity research and Trustworthy Scientific Cyberinfrastructure,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, May 23, 2024.
+
 <A HREF="https://www.nsf.gov/staff/staff_bio.jsp?lan=tghoward&org=NSF&from_org=NSF">Tim Howard</A> (NSF/USAP),
 <A HREF="https://scripps.ucsd.edu/profiles/jmeyer">Jon Meyer</A> (SIO/CCRV),  <A HREF="https://ceoas.oregonstate.edu/people/craig-risien">Craig Risien</A> (OSU/OOI), 
 <A HREF="https://hmsc.oregonstate.edu/users/christopher-romsos">Chris Romsos</A> (OSU/CCRV),
@@ -190,4 +200,4 @@ Von Welch & Sean Peisert, "[Open Science Cyber Risk Profile (OSCRP)](https://www
 [OSCRP]: http://trustedci.github.io/OSCRP/OSCRP.html
 [OSCRP-Mag]: https://escholarship.org/uc/item/5677f8fh
   
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

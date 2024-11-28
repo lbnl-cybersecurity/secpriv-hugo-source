@@ -6,6 +6,8 @@ sitemap:
   priority = 0.7
 ---
 
+[Cybersecurity Center of Excellence Receives Five-Year, $6M/Year Award From NSF](https://cs.lbl.gov/news-media/news/2024/trusted-ci-nsf-release) [[expanded announcement](https://crd.lbl.gov/news-and-publications/news/2024/trusted-ci-nsf-award)] — Oct. 3, 2024
+
 [Announcing publication of the Operational Technology Procurement Vendor Matrix](https://blog.trustedci.org/2023/12/announcing-publication-of-operational.html) — Dec. 15, 2023
 
 [Berkeley Lab Leading the Way with New Cybersecurity Projects](https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/) — Nov. 6, 2023

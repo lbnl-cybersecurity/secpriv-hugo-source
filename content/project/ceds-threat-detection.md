@@ -69,4 +69,4 @@ National Rural Electric Cooperative Association (NRECA)
 This project is supported by the U.S. Department of Energy's [Cybersecurity for Energy Delivery Systems (CEDS)](http://energy.gov/oe/services/technology-development/energy-delivery-systems-cybersecurity) program in support of the [Grid Modernization Initiative](http://energy.gov/doe-grid-modernization-laboratory-consortium-gmlc-awards).
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

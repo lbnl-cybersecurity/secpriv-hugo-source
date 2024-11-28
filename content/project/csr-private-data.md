@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["differential privacy","machine learning","medical","data privacy","scientific computing","secure systems","transportation","confidential computing"]
+tags = ["differential privacy","machine learning","medical","data privacy","research cyberinfrastructure","secure systems","transportation","confidential computing","AI"]
 
 # Project summary to display on homepage.
 summary = "This project aims to produce methods, processes, and architectures applicable to a variety of scientific computing domains that enables querying, machine learning, and analysis of data while protecting against releasing sensitive information beyond pre-defined bounds.  It is supported by LBNL CSR funds and is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
@@ -115,6 +115,7 @@ Keynote: "Usable Computer Security and Privacy to Enable Data Sharing in High-Pe
 
 "Securing Edge-to-Center Computing with Trustworthy Data Domains," [Monterey Data Workshop](https://www.montereydataconference.org/workshop-2022), April 21, 2022.
 
+Sean Peisert, “Cybersecurity and Privacy research for Science and Energy,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, March 24, 2022.
 
 Sean Peisert, "Securing Edge-to-Center Computing with Trustworthy Data Domains," [2022 AFRL/AFOSR/DOE Energy Cost of Information Workshop](https://community.apan.org/wg/afosr/w/researchareas/31786/2022-energy-consequences-of-information-workshop/), February 18, 2022.
 
@@ -128,7 +129,7 @@ Sean Peisert, "Advancing Cybersecurity as an Enabling Capability in High-Perform
 
 Sean Peisert, "Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the [Fletcher School](https://fletcher.tufts.edu/) at Tufts University and the [Centre for Communication Governance (CCG)](https://ccgdelhi.org/) at National Law University, Delhi, December 17, 2020.
 
-Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity R&D Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
+Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity research Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
 
 Sean Peisert, "Scientific Computing and Sensitive Data," [DataLab](https://datalab.ucdavis.edu/) [Health Data Science and Systems Research and Learning Cluster](https://datalab.ucdavis.edu/health-data-science-systems/), University of California, Davis, October 2, 2020.
 
@@ -140,4 +141,4 @@ Sean Peisert, "[Usable Computer Security and Privacy to Enable and Encourage Dat
 
 Sean Peisert, "[Cybersecurity Challenges and Opportunities in High-Performance Computing Environments](https://2018.isc-program.com/?page_id=10&id=inv_sp155&sess=sess126)," [International Supercomputing Conference (ISC)](https://2018.isc-program.com/), Frankfurt, Germany,  June 26, 2018.
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

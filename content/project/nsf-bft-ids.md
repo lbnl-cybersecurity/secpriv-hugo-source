@@ -36,4 +36,4 @@ caption = ""
   
 More information is available at the [UC Davis BFT+IDS project web site](http://www.cs.ucdavis.edu/%7Epeisert/projects/bftids.html).
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

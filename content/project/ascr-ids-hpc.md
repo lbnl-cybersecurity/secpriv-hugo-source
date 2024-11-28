@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning"]`
-tags = ["HPC","machine learning","network","scientific computing","secure systems"]
+tags = ["HPC","machine learning","network","research cyberinfrastructure","secure systems"]
 
 # Project summary to display on homepage.
 summary = "This project developed mathematical and statistical techniques to analyze the secure access and use of high-performance computer systems. It was funded by DOE ASCR and was originally led by David H. Bailey."
@@ -88,4 +88,4 @@ Robin Sommer, Vern Paxson, ["Outside the Closed World: On Using Machine Learning
 
 This project was supported by the US Department of Energy's Office of Science's [Advanced Scientific Computing Research (ASCR)](http://science.energy.gov/ascr/) program.
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

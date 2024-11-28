@@ -18,7 +18,7 @@ priority = 0.8
 
 +++
 
-LBNL's cybersecurity R&amp;D team has produced a variety of software tools and libraries that are publicly available for use.  A partial listing of selected software is below:
+LBNL's cybersecurity research team has produced a variety of software tools and libraries that are publicly available for use.  A partial listing of selected software is below:
 
 * [CEDS DP K-Means Clustering](https://github.com/lbnl-cybersecurity/CEDSKMeans).  This repository contains the code for the CEDS Data Product K-Means Clustering. 
 

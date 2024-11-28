@@ -5,7 +5,7 @@ draft = false
 profile = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine learning", "deep-learning"]`
+# Example: `tags = ["machine learning", "AI"]`
 tags = ["power grid","machine learning"]
 
 
@@ -80,5 +80,5 @@ DOE Press Release: "[DOE Announces $39 Million in Research Funding to Enhance Cy
 [Berkeley Lab leading the way with new cybersecurity projects](https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/) - Nov. 6, 2023
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
 

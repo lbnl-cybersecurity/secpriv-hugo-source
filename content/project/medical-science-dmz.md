@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["network","medical","scientific computing"]
+tags = ["network","medical","research cyberinfrastructure"]
 
 # Project summary to display on homepage.
 summary = "We have defined a Medical Science DMZ as a method that allows data flows at scale while simultaneously addressing the HIPAA Security Rule and related regulations governing biomedical data and appropriately managing risk."

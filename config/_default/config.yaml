@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Berkeley Lab Cybersecurity R&D # Website name
+title: Berkeley Lab Cybersecurity Research # Website name
 baseurl: 'https://secpriv.lbl.gov/' # Website URL
 copyright: '&copy; 2018-2024' # Footer text, e.g. '© {year} Me'
 

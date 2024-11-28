@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["differential privacy","power grid","machine learning","cyber-physical systems","data privacy"]
+tags = ["differential privacy","power grid","machine learning","cyber-physical systems","data privacy","AI"]
 
 # Project summary to display on homepage.
 summary = "This project aims to develop, apply, and test a technique for enabling collective defense of distribution grids with significant penetration of distributed energy resources (DER) and responsive loads, by leveraging a privacy-preserving method of data sharing without exposing raw data that might contain personally identifiable information (PII) or that might otherwise be considered national security information that could be leveraged by adversaries to more effectively compromise and potentially destabilize portions of the electric grid.   It is funded by DOE CESER's RMT program and is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
@@ -53,6 +53,18 @@ DOE Press Release: "[DOE Announces $39 Million in Research Funding to Enhance Cy
 [Parth Pradhan](https://www.linkedin.com/in/parth-pradhan-abb9966/) (Kevala) \
 [Ryan Cryar](https://www.nrel.gov/research/staff/ryan-cryar.html) (NREL)
 
+#### Postdocs:
+[Dr. Hang Liu](https://scholar.google.com/citations?user=n1tKLQcAAAAJ&hl=en) ([Cornell Tech](https://www.tech.cornell.edu))
+
+#### Graduate Students:
+[Andrew Campbell](https://sinelab.tech.cornell.edu/research/people/andrew_campbell/) ([Cornell Tech](https://www.tech.cornell.edu))
+
+#### Additional Researchers
+
+[Dr. Tong Wu](https://tong-andrew-wu.github.io) (University of Central Florida)
+
+#### Past Researchers:
+[Nikhil Ravi](https://nikhil-ravi.github.io) (Cornell Tech)
 
 #### Partners:
 [Cornell Tech](https://www.tech.cornell.edu) \
@@ -64,11 +76,16 @@ DOE Press Release: "[DOE Announces $39 Million in Research Funding to Enhance Cy
 [Berkeley Lab Leading the Way with New Cybersecurity Projects](https://crd.lbl.gov/news-and-publications/news/2023/berkeley-lab-leading-the-way-with-new-cybersecurity-projects/) — Nov. 6, 2023
 
 
+### Presentations relating to this project:
+
+Sean Peisert, “LBNL Electric Grid Cybersecurity research and Trustworthy Scientific Cyberinfrastructure,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, May 23, 2024.
+
+
 ### Publications resulting from this project:
 
-Hang Liu, Anna Scaglione, and Sean Peisert, “[Privacy Leakage in Graph Signal to Graph Matching Problems](),” _Proceedings of the [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2024.ieeeicassp.org/)_, Seoul, South Korea, April 14–19, 2024.
+Hang Liu, Anna Scaglione, and Sean Peisert, “[Privacy Leakage in Graph Signal to Graph Matching Problems](https://doi.org/10.1109/ICASSP48485.2024.10447364),” _Proceedings of the [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2024.ieeeicassp.org/)_, Seoul, South Korea, April 14–19, 2024.
 
 Nikhil Ravi, Anna Scaglione, Sean Peisert, and Parth Pradhan, "[Differentially Private Communication of Measurement Anomalies in the Smart Grid](https://arxiv.org/abs/2403.02324)," _arXiv preprint_ arXiv:2403.02324, 4 Mar 2024.
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

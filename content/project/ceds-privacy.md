@@ -90,6 +90,10 @@ DOE Press Release: "[Department of Energy Announces Awardees of $30 Million Rese
 
 [Scientific Data Division Summer Students Tackle Data Privacy](https://crd.lbl.gov/news-and-publications/news/2022/scientific-data-division-summer-students-tackle-data-privacy/) - Sept. 15, 2022
 
+### Presentations relating to this project:
+
+Sean Peisert, “Cybersecurity and Privacy research for Science and Energy,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, March 24, 2022.
+
 
 ### Publications resulting from this project:
 
@@ -114,4 +118,4 @@ Sachin Kadam, Anna Scaglione, Nikhil Ravi, Sean Peisert, Brent Lunghino, and Ara
 Nikhil Ravi, Anna Scaglione, and Sean Peisert, "Colored Noise Mechanism for Differentially Private Clustering," *arXiv preprint* [arXiv:2111.07850](https://arxiv.org/abs/2111.11661), 15 Nov 2021. 
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

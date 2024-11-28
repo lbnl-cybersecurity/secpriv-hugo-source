@@ -6,11 +6,11 @@ profile = false
 show_date = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["power grid","machine learning"]
+# Example: `tags = ["machine learning"]`
+tags = ["power grid","machine learning","AI"]
 
 # Project summary to display on homepage.
-summary = "This project performed R&D to enable distribution grids to adapt to resist a cyber-attack by (1) developing adaptive control algorithms for DER, voltage regulation, and protection systems; (2) analyze new attack scenarios and develop associated defensive strategies. It was funded by DOE's CEDS program and was co-led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) and [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold)."
+summary = "This project performed research to enable distribution grids to adapt to resist a cyber-attack by (1) developing adaptive control algorithms for DER, voltage regulation, and protection systems; (2) analyze new attack scenarios and develop associated defensive strategies. It was funded by DOE's CEDS program and was co-led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/) and [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold)."
 
 # Optional image to display on homepage.
 image_preview = ""
@@ -94,6 +94,10 @@ DOE/LBNL Press Release: "[Berkeley Lab Aims to Strengthen the Cybersecurity of t
 
 [Berkeley Lab Aims to Strengthen the Cybersecurity of the Grid](http://newscenter.lbl.gov/2017/09/26/berkeley-lab-aims-to-strengthen-the-cybersecurity-of-the-grid/) — September 27, 2017
 
+### Presentations relating to this project:
+
+Sean Peisert, “Cybersecurity and Privacy research for Science and Energy,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, March 24, 2022.
+
 ### Publications resulting from this project:
 
 Sean Peisert, Daniel Arnold, Ciaran Roberts, Sy-Toan Ngo, Michael Sankur, Anna Scaglione, Ignacio Losada Carreno, Shammya Saha Anton Kocheturov, Dmitriy Fradkin, David Pinney, Ryan Mahoney, Lisa Slaughter, "[Cybersecurity via Inverter Grid Automatic Reconfiguration (CIGAR) Year 3 Report](https://escholarship.org/uc/item/8c13q45x)," March 31 2021.
@@ -107,4 +111,4 @@ Ignacio Losada Carreño, Raksha Ramakrishna, Anna Scaglione, Daniel Arnold, Ciar
 
 Ciaran Roberts Sy-Toan Ngo, Alexandre Milesi, Sean Peisert, Daniel Arnold, Shammya Saha, Anna Scaglione, Nathan Johnson, Anton Kocheturov, Dmitriy Fradkin, "[Deep Reinforcement Learning for DER Cyber-Attack Mitigation](https://escholarship.org/uc/item/5069z5wn)," _Proceedings of the [IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm)](https://sgc2020.ieee-smartgridcomm.org)_, November 11–13, 2020.
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

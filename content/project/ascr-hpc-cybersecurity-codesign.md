@@ -7,7 +7,7 @@ show_date = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["HPC","network","machine learning","scientific computing","secure systems","confidential computing"]
+tags = ["HPC","network","machine learning","research cyberinfrastructure","secure systems","confidential computing"]
 
 # Project summary to display on homepage.
 summary = "This project takes a broad look at several aspects of security and scientific integrity issues in HPC systems. It is funded by DOE ASCR and is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/)."
@@ -150,7 +150,7 @@ Sean Peisert, "Advancing Cybersecurity as an Enabling Capability in High-Perform
 
 Sean Peisert, "Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the [Fletcher School](https://fletcher.tufts.edu/) at Tufts University and the [Centre for Communication Governance (CCG)](https://ccgdelhi.org/) at National Law University, Delhi, December 17, 2020.
 
-Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity R&D Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
+Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity research Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
 
 Sean Peisert, "Scientific Computing and Sensitive Data," [DataLab](https://datalab.ucdavis.edu/) [Health Data Science and Systems Research and Learning Cluster](https://datalab.ucdavis.edu/health-data-science-systems/), University of California, Davis, October 2, 2020.
 
@@ -182,4 +182,4 @@ Sean Peisert, [Security Expert on Why HPC Matters - Cybersecurity for HPC System
 Ayaz Akram, [Setting up Trusted HPC System in the Cloud](https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc), November 19, 2020.
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

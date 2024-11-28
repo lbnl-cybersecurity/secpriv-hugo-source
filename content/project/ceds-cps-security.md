@@ -90,4 +90,4 @@ Xiao Li, Zhifang Wang, Vishak Muthukumar, Anna Scaglione, Sean Peisert, and Chuc
 
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

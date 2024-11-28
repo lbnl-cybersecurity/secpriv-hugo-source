@@ -83,4 +83,4 @@ Matt Bishop, Mark Graff, Candice Hoke, David Jefferson, and Sean Peisert, "<A HR
 <em>Sponsors:</em> <A HREF="http://www.nsf.gov/">National Science Foundation</A> <A HREF="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0905503">CCF-0905503</A>, <A HREF="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1049738">CNS-1049738</A>, <A HREF="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1258577">CNS-1258577</A>, and <A HREF="http://www.nist.gov/itl/vote/">NIST</A>
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).

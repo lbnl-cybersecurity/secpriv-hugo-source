@@ -80,11 +80,11 @@ This project is supported by the U.S. Department of Energy's [Cybersecurity for 
 
 ### Press regarding this project:
 
-[Electric grid protection through low-cost sensors, machine learning](https://gcn.com/articles/2018/09/21/grid-cybersecurity.aspx?m=1) (GCN) — September 21, 2018
+[Electric grid protection through low-cost sensors, machine learning](https://gcn.com/articles/2018/09/21/grid-cybersecurity.aspx?m=1) (Route 50; formerly Government Computing News) — September 21, 2018
 
 [Cyber Defense Tool Is an Early Warning System for Grid Attacks](https://spectrum.ieee.org/energywise/energy/the-smarter-grid/cyber-defense-tool-targets-grid-vulnerability) (IEEE Spectrum Energywise Blog) — March 27, 2018
 
-[Combination of Old and New Yields Novel Power Grid Cybersecurity Tool](https://cs.lbl.gov/news-media/news/2018/combination-of-old-and-new-yields-novel-power grid-cybersecurity-tool/) — March 7 2018
+[Combination of Old and New Yields Novel Power Grid Cybersecurity Tool](https://cs.lbl.gov/news-media/news/2018/combination-of-old-and-new-yields-novel-power-grid-cybersecurity-tool/) — March 7 2018
 
 ### Publications resulting from this project:
 
@@ -119,4 +119,4 @@ Mahdi Jamei, Emma Stewart, Sean Peisert, Anna Scaglione, Chuck McParland, Ciaran
 
 **Analytics for Stream-Processing Architecture for Real-time Cyber-physical Security (Analytic-SPARCS).**  
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

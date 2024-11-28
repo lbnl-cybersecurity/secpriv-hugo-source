@@ -58,17 +58,17 @@ subtitle = ""
  css_class = ""
 +++
 
-Berkeley Lab [Computing Sciences Research][CRD] is an active participant in a number of projects in the arena of cybersecurity for energy delivery systems.  Recently, this work has been funded largely via DOE's [Cybersecurity for Energy Delivery Systems (CEDS) R&D program](https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and). These projects include collaborations with academic, vendor, and utility partners. 
+Berkeley Lab [Computing Sciences Research][CRD] is an active participant in a number of projects in the arena of cybersecurity for energy delivery systems.  Recently, this work has been funded largely via DOE's [Cybersecurity for Energy Delivery Systems (CEDS) research program](https://www.energy.gov/ceser/activities/cybersecurity-critical-energy-infrastructure/cybersecurity-research-development-and). These projects include collaborations with academic, vendor, and utility partners. 
 
 [CRD]: https://crd.lbl.gov
 
 Berkeley Lab's work in security for power grid control systems emphasizes both its historical role in developing, deploying and testing the [Zeek (Bro) Network Security Monitor](https://www.zeek.org), as well as novel ideas that [leverage and integrate physics]({{< ref "/project/ceds-cps-security.md" >}}) — physical limitations, physical sensor output, and insight into commands sent to control systems — to help monitor and protect networked energy system devices under control.
 
-Recent highlights of Berkeley Lab Computing Sciences' cybersecurity R&D activities in cybersecurity for energy delivery systems include:
+Recent highlights of Berkeley Lab Computing Sciences' cybersecurity research activities in cybersecurity for energy delivery systems include:
 
 * Development and application of differential privacy to [power grid](https://secpriv.lbl.gov/project/ceds-privacy/) and [vehicle mobility](https://secpriv.lbl.gov/project/csr-private-data/) data and applications &rArr; The DOE Office of [Cybersecurity, Energy Security, and Emergency Response (CESER)](https://www.energy.gov/ceser/office-cybersecurity-energy-security-and-emergency-response) is seeking to deploy the former operationally and the latter has already enabled mobility research otherwise not possible due to data sharing restrictions.
 
-* Developed the first practical approaches to [integrate physics of operational technology in the power grid with intrusion detection]({{< ref "/project/ceds-cps-security.md" >}}) to ensure their secure operation. &rArr; Now broadly used in applied R&D efforts globally, and appear in DOE funding solicitations and Congressional budget appropriations.
+* Developed the first practical approaches to [integrate physics of operational technology in the power grid with intrusion detection]({{< ref "/project/ceds-cps-security.md" >}}) to ensure their secure operation. &rArr; Now broadly used in applied research efforts globally, and appear in DOE funding solicitations and Congressional budget appropriations.
 
 * Developing a technique to [enable automated response to cyberattacks against rooftop solar inverters]({{< ref "/project/ceds-cigar.md" >}}).
 

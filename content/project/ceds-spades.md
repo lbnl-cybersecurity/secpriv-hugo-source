@@ -6,8 +6,8 @@ profile = false
 show_date = false
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["power grid","machine learning"]
+# Example: `tags = ["machine learning"]`
+tags = ["power grid","machine learning","AI"]
 
 # Project summary to display on homepage.
 summary = "This project is developing the methodology and tools allowing Electric Storage Systems (ESS) to automatically reconfigure themselves to counteract cyberattacks, both directly against the ESS control systems and indirectly through the electric grid. It is funded by DOE CESER's CEDS program and is led by [Daniel Arnold](https://eta.lbl.gov/people/daniel-arnold)."
@@ -118,4 +118,4 @@ Roberts, C., Markovic, U., Arnold, D., and Callaway, D. S., “Malicious Control
 
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for energy delivery systems](/research/ceds/).

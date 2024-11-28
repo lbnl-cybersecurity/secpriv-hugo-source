@@ -11,7 +11,7 @@ aliases = [
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine learning", "deep-learning"]`
-tags = ["HPC","network","scientific computing","secure systems","confidential computing","edge"]
+tags = ["HPC","network","research cyberinfrastructure","secure systems","confidential computing","edge","nuclear treaty assurance"]
 
 # Project summary to display on homepage.
 summary = "This project will develop secure computation architectures to ensure trustworthiness of scientific data while addressing the gaps left by existing solutions for scientific workflows to address the specific power, performance, and usability, and needs from the edge to the HPC center. It is led by [Sean Peisert](https://www.cs.ucdavis.edu/~peisert/), [Venkatesh Akella]( https://faculty.engineering.ucdavis.edu/akella/), and [Jason Lowe-Power](https://faculty.engineering.ucdavis.edu/lowepower/)."
@@ -45,13 +45,14 @@ caption = ""
 [Jason Lowe-Power][Lowe-Power]   
 
 #### Research Staff:
-[Farzad Fatollahl-Fard](https://crd.lbl.gov/farzad-fatollahi-fard/)
+[Farzad Fatollahl-Fard](https://crd.lbl.gov/farzad-fatollahi-fard/) \
+[Dr. Paul Hargrove](https://crd.lbl.gov/paul-hargrove/)
 
 #### Affiliated Graduate Students:
 [Kaustav Goswami](https://sites.google.com/view/kaustavgoswami) ([UC Davis](https://www.cs.ucdavis.edu))  
 
 #### Past Researchers:
-[Ayaz Akram][Akram] ([UC Davis](https://www.cs.ucdavis.edu)  / LBNL) 
+[Ayaz Akram][Akram] ([UC Davis](https://www.cs.ucdavis.edu) / LBNL) 
 
 [Kaustav]: https://sites.google.com/view/kaustavgoswami
 [Lowe-Power]: https://faculty.engineering.ucdavis.edu/lowepower/
@@ -75,6 +76,10 @@ This project is supported by the US Department of Energy's Office of Science's [
 "[Toward a Hardware/Software Co-Design Framework for Ensuring the Integrity of Exascale Scientific Data]( "/project/ascr-hpc-cybersecurity-codesign/")," PI: Sean Peisert, 2015.
 
 "Cybersecurity for Edge-to-Center Scientific Computing in Advanced Wireless Environments," PI: Sean Peisert, Co-PIs: Venkatesh Akella and Jason Lowe-Power, 2021.
+
+It is also funded by [NNSA DNN](https://www.energy.gov/nnsa/nonproliferation) research:
+
+"Data Enclaves for Secure Computing (DESC): Enabling Secure Nuclear Treaty Verification in Hostile Environments," PI: Sean Peisert, Co-PIs: Venkatesh Akella, David Archer, and Jason Lowe-Power, 2024.
 
 It is also funded by LBNL Contractor Supported Research.
 
@@ -123,6 +128,8 @@ Keynote: "Usable Computer Security and Privacy to Enable Data Sharing in High-Pe
 
 "Securing Edge-to-Center Computing with Trustworthy Data Domains," [Monterey Data Workshop](https://www.montereydataconference.org/workshop-2022), April 21, 2022.
 
+Sean Peisert, “Cybersecurity and Privacy research for Science and Energy,” [Networking and Information Technology Research and Development (NITRD) Cyber Security and Information Assurance (CSIA) Interagency Working Group (IWG)](https://www.nitrd.gov/coordination-areas/csia/) Meeting, March 24, 2022.
+
 Sean Peisert, "Securing Edge-to-Center Computing with Trustworthy Data Domains," [2022 AFRL/AFOSR/DOE Energy Cost of Information Workshop](https://community.apan.org/wg/afosr/w/researchareas/31786/2022-energy-consequences-of-information-workshop/), February 18, 2022.
 
 Venkatesh Akella and Sean Peisert, "Usable Computer Security and Privacy to Enable Data Sharing for Scientific Research," [Trusted Computing Center of Excellence (TCCOE) Summit](https://hopin.com/events/tccoe-2022-summit%22), February 1–3, 2022.
@@ -133,7 +140,7 @@ Sean Peisert, "Advancing Cybersecurity as an Enabling Capability in High-Perform
 
 Sean Peisert, "Cyber Privacy and Security Risks During the Pandemic” (panel - with Bart Preneel, KU Leuven; Kritika Bhardwaj, NLU Delhi; Margaret Bourdeaux, Harvard/Berkman Klein; Susan Landau, Tufts; and Smitha Prasad, NLU Delhi), Hewlett Foundation event hosted by the [Fletcher School](https://fletcher.tufts.edu/) at Tufts University and the [Centre for Communication Governance (CCG)](https://ccgdelhi.org/) at National Law University, Delhi, December 17, 2020.
 
-Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity R&D Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
+Sean Peisert, "Fragility, Interdependence, and Tradeoffs — Cybersecurity and Privacy Lessons from the Pandemic," [Federal Cybersecurity research Interagency Working Group (CSIA IWG)](https://www.nitrd.gov/nitrdgroups/index.php?title=CSIA), [NITRD](https://www.nitrd.gov/), December 3, 2020.
 
 Sean Peisert, "Scientific Computing and Sensitive Data," [DataLab](https://datalab.ucdavis.edu/) [Health Data Science and Systems Research and Learning Cluster](https://datalab.ucdavis.edu/health-data-science-systems/), University of California, Davis, October 2, 2020.
 
@@ -153,4 +160,4 @@ Sean Peisert, "[Cybersecurity Challenges and Opportunities in High-Performance C
 Ayaz Akram, [Setting up Trusted HPC System in the Cloud](https://arch.cs.ucdavis.edu/blog/2020-11-19-cloud-hpc), November 19, 2020.
 
 
-More information is available on other Berkeley Lab R&D projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for scientific and high-performance computing](/research/scientific-computing/).
+More information is available on other Berkeley Lab research projects focusing on [cybersecurity](/projects/) in general, as well as specifically on [cybersecurity for research cyberinfrastructure and high-performance computing](/research/research-cyberinfrastructure/).
